@@ -73,7 +73,8 @@ Feature의 일부분이 완성돼서 GitHub Repo에 올리고 싶다면 변경�
 git push -u origin feature/feature_name
 ```
 - 주의 사항:
-    - main 브랜치나 development 브랜치에는 절대로 직접적으로 push 하지 않도록 하자 
+    - main 브랜치나 development 브랜치에는 절대로 직접적으로 push 하지 않도록 하자
+
 위의 커맨드가 성공적으로 실행되면 GitHub Repo에
 - 처음 push 했을 때
     - feature/feature_name 브랜치가 새로 본인이의 마지막 commit과 동일하게 생성돼 있는걸 볼 수 있다
