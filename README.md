@@ -20,7 +20,7 @@ git status
 ```
 Local git repository 셋업이 완료됐다면 개발중인 GitHub Repository를 remote repository로 추가하고 데이터를 fetch 해온다.
 ```
-git remote add origin https://github.com/HKUCMM/cmm_website.git
+git remote add origin https://github.com/url/to/repository
 git fetch origin
 ```
 이 단계에선 아직 local directory에는 아직 아무 파일도 없지만, remote branch가 추가 돼있는걸 확인 할 수 있다.
