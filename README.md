@@ -53,6 +53,12 @@ git add "./path/to/file"        // 변경점이 있는 파일 "./path/to/file" �
 ```
 - 주의 사항:
     - ```git add .``` 커맨드는 root directory 에서 사용하자
+    - ```
+      git add .
+      git add -u
+      git add -A
+      ```
+      에 대한 차이점은 이 (링크)[https://stackoverflow.com/a/572660]를 참고하여 상황에 맞게 사용하자
 
 변경점을 add 했다면 코드를 commit 하면 된다.
 
