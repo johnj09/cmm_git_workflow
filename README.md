@@ -84,7 +84,7 @@ git push -u origin feature/feature_name
 만약 Push가 실패 했다면 내가 Pull 했던 시점과 Push하려는 시점 사이에 누군가가 Push하려는 브랜치에 이미 Push했을 가능성이 크다.<br>
 그럴 때에는 한 번 더 Pull 해서 누군가가 Push한 변경점을 현재 내 코드와 merge하고 다시 Push하면 된다.
 
-이제 위의 단계들을 반복하며 Feature가 완성될 때까지 반복한다.
+이제 위의 단계들을 Feature가 완성될 때까지 반복한다.
 
 ## Pull Requests
 이제 Feature가 모두 완성됐고 이 Feature를 development 브랜치에 implement하면 된다.
