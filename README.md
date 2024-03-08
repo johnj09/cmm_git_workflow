@@ -77,7 +77,7 @@ git push -u origin feature/feature_name
 
 위의 커맨드가 성공적으로 실행되면 GitHub Repo에
 - 처음 push 했을 때
-    - feature/feature_name 브랜치가 새로 본인이의 마지막 commit과 동일하게 생성돼 있는걸 볼 수 있다
+    - feature/feature_name 브랜치가 새로 본인의 마지막 commit과 동일하게 생성돼 있는걸 볼 수 있다
 - Push한 적이 있으며 GitHub에 이미 feature/feature_name 브랜치가 있을 때
     - GitHub의 branch가 업데이트된걸 볼 수 있다
 
